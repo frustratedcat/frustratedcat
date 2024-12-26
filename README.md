@@ -13,4 +13,5 @@ An auditor by day, a coder by night! I work as an auditor at a public university
     - JavaScript
     - Enough Lua for my neovim config
     - SQL
+    - Markdown (if that counts)
 - 📚 Check out my blog if you are interested in reading my fictional short stories, or would like to view the books I read
