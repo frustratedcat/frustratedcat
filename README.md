@@ -2,7 +2,7 @@
 
 I work as an auditor at a public university in Virginia, USA. I enjoy fooling around with computer software and operating systems, coding, journaling, writing fiction, reading, and speding time in the forest!
 
-- 😼 I’m currently working on getting better at Python
+- 😼 I’m currently working on learning data science
 - ⌨ The languages I know inlcude the following:
     - Python
     - HTML
